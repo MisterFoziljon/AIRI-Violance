@@ -1,6 +1,6 @@
 ## Obyektlarni aniqlash, segmentatsiya qilish va kuzatish dasturi
 
-![cmd](https://github.com/MisterFoziljon/AIRI-Violance/Violance step-1/demonstration/image.jpg)
+![image](https://github.com/MisterFoziljon/AIRI-Violance/blob/main/Violance%20step-1/demonstration/tracking.png)
 
 ### Ushbu dasturda kuzatilishi kerak bo'lgan eng asosiy 2 ta obyekt mavjud:
 1. Piyoda (padestrian)
