@@ -1,6 +1,8 @@
-### Obyektlarni aniqlash, segmentatsiya qilish va kuzatish dasturi
+## Obyektlarni aniqlash, segmentatsiya qilish va kuzatish dasturi
 
-Ushbu dasturda kuzatilishi kerak bo'lgan eng asosiy 2 ta obyekt mavjud:
+![cmd](https://github.com/MisterFoziljon/AIRI-Violance/Violance step-1/main/demonstration/image.jpg)
+
+### Ushbu dasturda kuzatilishi kerak bo'lgan eng asosiy 2 ta obyekt mavjud:
 1. Piyoda (padestrian)
 2. Avtoulov (vehicle)
 
