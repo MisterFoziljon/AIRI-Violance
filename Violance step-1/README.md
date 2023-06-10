@@ -11,7 +11,7 @@
 
 #### 1. Obyektlarni aniqlash (Object detection)
 
-![image](https://github.com/MisterFoziljon/AIRI-Violance/blob/main/Violance%20step-1/demonstration/detection.mp4)
+https://github.com/MisterFoziljon/AIRI-Violance/blob/main/Violance%20step-1/demonstration/detection.mp4
 ```shell
 C:\User\violance> python deploy.py --src video.mp4 --yolo v8m --mode detection
 ```
