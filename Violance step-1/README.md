@@ -6,7 +6,8 @@
 #### 1. Piyoda (padestrian)
 #### 2. Avtoulov (vehicle)
 
-Dastur 3 ta asosiy funksiyani bajaradi:
+
+### Dastur 3 ta asosiy funksiyani bajaradi:
 
 #### 1. Obyektlarni aniqlash (Object detection)
 
