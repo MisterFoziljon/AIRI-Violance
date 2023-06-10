@@ -10,8 +10,7 @@
 ### Dastur 3 ta asosiy funksiyani bajaradi:
 
 #### 1. Obyektlarni aniqlash (Object detection)
-
-https://github.com/MisterFoziljon/AIRI-Violance/blob/main/Violance%20step-1/demonstration/detection.mp4
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://github.com/MisterFoziljon/AIRI-Violance/blob/main/Violance%20step-1/demonstration/detection.mp4)
 ```shell
 C:\User\violance> python deploy.py --src video.mp4 --yolo v8m --mode detection
 ```
